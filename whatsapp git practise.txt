@@ -2,6 +2,6 @@
 2.chat screen code
 3. last screen code
 4.attachments(video, audio)
-
+5. Hiding last screen
 
 
