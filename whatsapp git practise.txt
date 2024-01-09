@@ -1,0 +1,7 @@
+1.Profile page code
+2.chat screen code
+3. last screen code
+4.attachments(video, audio)
+
+
+
