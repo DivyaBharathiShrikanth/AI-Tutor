@@ -1,2 +1,2 @@
-# AI-Tutor
+# EAE Practise
 for my learning
