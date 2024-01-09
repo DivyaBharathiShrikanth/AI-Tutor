@@ -1,2 +1,2 @@
 # AI-Tutor
-for my plearning
+for my learning
